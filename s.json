@@ -1,0 +1,19 @@
+{
+	"code": 0,
+	"message": "OK",
+	"data": [{
+			"goodssId": 0,
+			"spanSize": 4,
+			"banners": [
+				"https://img2.baidu.com/it/u=217644621,621859478&fm=253&fmt=auto&app=138&f=JPEG?w=616&h=396",
+				"https://img0.baidu.com/it/u=1391154107,900911934&fm=253&fmt=auto&app=138&f=JPEG?w=543&h=500",
+				"https://img.zcool.cn/community/012a5c5c74acf7a801203d226c61d0.jpg@1280w_1l_2o_100sh.jpg"
+			]
+		},
+		{
+			"goodsId": "1",
+			"imageUrl": "https://img2.baidu.com/it/u=217644621,621859478&fm=253&fmt=auto&app=138&f=JPEG?w=616&h=396",
+			"spanSize": 2
+		}
+	]
+}
